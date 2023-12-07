@@ -10,4 +10,4 @@ function daysOfAYear(year){
 	
 }
 let year=prompt("Enter the Year");
-alert("no of days:"+daysOfAYear(year));
+alert(daysOfAYear(year));
